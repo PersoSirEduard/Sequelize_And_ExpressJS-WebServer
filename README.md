@@ -1,7 +1,7 @@
 # Sequelize and Express Node.js web server
 
 ## Description
-This is an example of a Sequelize and Epress web server built in Node.js to access and modify a PostgreSQL database.
+This is an example of a Sequelize and Express web server built in Node.js to access and modify a PostgreSQL database.
 
 ## Install all necessary node modules
 For this example to work, the following node modules are required:
