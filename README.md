@@ -28,3 +28,6 @@ const sequelize = new Sequelize('insert-user', 'insert-database-name', 'insert-p
     host: 'localhost'
   });
 ```
+
+## Start the web server
+Execute ```node main.js``` to start the express web server.
